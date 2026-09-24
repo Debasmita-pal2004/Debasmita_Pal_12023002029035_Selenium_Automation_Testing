@@ -61,7 +61,7 @@ These certifications demonstrate my continuous learning and development in the f
 **Issued to:** Debasmita Pal
 **Completed:** September 16, 2026
 **Duration:** Approximately 7 hours
-**Grade:** ⭐ **100%**
+**Grade:** ⭐ **93%**
 
 > Successfully completed the Coursera course
 > **Selenium WebDriver with Python**.
