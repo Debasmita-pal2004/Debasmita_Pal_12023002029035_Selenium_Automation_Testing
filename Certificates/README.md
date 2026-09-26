@@ -31,7 +31,7 @@ These certifications demonstrate my continuous learning and development in the f
 | #  | Certification                                                  | Completed          | Duration | Grade    |
 | -- | -------------------------------------------------------------- | ------------------ | -------- | -------- |
 | 🥇 | **Python for Automation**                                      | September 9, 2026  | ~6 hours | **93%**  |
-| 🥈 | **Selenium WebDriver with Python**                             | September 16, 2026 | ~7 hours | **100%** |
+| 🥈 | **Selenium WebDriver with Python**                             | September 16, 2026 | ~7 hours | **93%** |
 | 🥉 | **Test Automation with Playwright (Python) & Robot Framework** | September 23, 2026 | ~3 hours | **100%** |
 
 ---
@@ -61,7 +61,7 @@ These certifications demonstrate my continuous learning and development in the f
 **Issued to:** Debasmita Pal
 **Completed:** September 16, 2026
 **Duration:** Approximately 7 hours
-**Grade:** ⭐ **100%**
+**Grade:** ⭐ **93%**
 
 > Successfully completed the Coursera course
 > **Selenium WebDriver with Python**.
