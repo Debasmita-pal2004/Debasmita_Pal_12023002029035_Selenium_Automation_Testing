@@ -2,11 +2,22 @@ Python  and Selenium Setup
 
 
 
-Assignment 1---->https://drive.google.com/file/d/1lp8NSth2wc21Zb3E-A7qwyZEaR-5oVT6/view?usp=drivesdk
+Assignment 1
+Web Element Identification -> Identify and locate different web elements on a given webpage using By.ID, By.NAME, By.TAG_NAME, By.LINK_TEXT, and By.CLASS_NAME
+https://drive.google.com/file/d/1lp8NSth2wc21Zb3E-A7qwyZEaR-5oVT6/view?usp=drivesdk
 
 
-Assignment 2---->https://drive.google.com/file/d/1wHFFhmtr9aTU-QwY0nEjkZ1NbZpZ7JSo/view?usp=drivesdk
+Assignment 2
+Multiple Element Identification -> Identify multiple elements of the same type on a webpage and use Selenium to find and work with the list of elements.
+https://drive.google.com/file/d/1wHFFhmtr9aTU-QwY0nEjkZ1NbZpZ7JSo/view?usp=drivesdk
 
-Assignment 3----> https://drive.google.com/file/d/1lmigpcuUQ7QkAaZMW8VgEl-Zbd1ITCMY/view
 
-Assignment 4 ---->https://drive.google.com/file/d/1_Zw2heMwy-pdiLIENFSAJY6WSw-wnWp4/view?usp=drivesdk
+
+Assignment 3
+CSS Selector Challenge -> Locate web elements using CSS Selectors, including selectors with wildcards for elements having varying or dynamic attribute values.
+https://drive.google.com/file/d/1lmigpcuUQ7QkAaZMW8VgEl-Zbd1ITCMY/view
+
+
+Assignment 4 
+Child Nodes Using CSS -> Identify and locate child/nested web elements using CSS child selectors and interact with the required elements.
+https://drive.google.com/file/d/1_Zw2heMwy-pdiLIENFSAJY6WSw-wnWp4/view?usp=drivesdk
