@@ -44,5 +44,4 @@ Folder 1 - Initial Lab Work and Video Demonstrations/
 * **Module 2:** Laboratory report documenting the practical work completed for Module 2.
 * **Module 3:** Laboratory report documenting the practical work completed for Module 3.
 * **Module 4:** Laboratory report documenting the practical work completed for Module 4.
-* **Assignment Videos:** Text file
-*  containing links to the demonstration videos for the completed assignments.
+* **Assignment Videos:** Text file containing links to the demonstration videos for the completed assignments.
